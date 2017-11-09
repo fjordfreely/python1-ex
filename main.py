@@ -1,7 +1,8 @@
 def main(msg):
-    // Another comment
-    // Adding the second comment
-    // Print a message
+    // No longer need comments
     print(msg)
 
-main("Maybe Later")
+def secondary():
+    print("New Function")
+
+main("There's People")
